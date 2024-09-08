@@ -1,0 +1,19 @@
+{
+  "name": "rick_morty",
+  "version": "1.0.0",
+  "description": "Consiste en una app que sirve para consultar los personajes de la sere Rick y morty, donde arroja las características de los personajes y la aparición de estos mismos en las diferentes temporadas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmadeusEsparza/Rick-Morty_Character.git"
+  },
+  "author": "Amadeus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmadeusEsparza/Rick-Morty_Character/issues"
+  },
+  "homepage": "https://github.com/AmadeusEsparza/Rick-Morty_Character#readme"
+}
